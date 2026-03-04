@@ -2,7 +2,7 @@
 
 Developed a high-performance media discovery platform that reduced data fetching latency by 30% through optimized asynchronous API calls.
 
-![Project Preview](docs/preview.png)
+![Project Preview](preview.png)
 
 ---
 

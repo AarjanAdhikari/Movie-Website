@@ -6,7 +6,6 @@ Developed a high-performance media discovery platform that reduced data fetching
 
 ---
 
-
 ## 🛠 Tech Stack
 
 **Frontend**

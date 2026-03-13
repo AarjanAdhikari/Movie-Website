@@ -33,7 +33,3 @@ Developed a high-performance media discovery platform that reduced data fetching
 - ⚡ Fast and lightweight UI
 
 ---
-
-## 🧩 Architecture
-
-This project follows a modular folder structure

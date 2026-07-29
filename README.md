@@ -71,7 +71,7 @@ git clone https://github.com/AarjanAdhikari/Movie-Website.git
 Navigate to the project directory.
 
 ```bash
-cd <repo-name>
+cd Movie-Website
 ```
 
 If the project uses a local development server, start it using your preferred tool (for example, VS Code Live Server). If it is built with a package manager, install dependencies first:
